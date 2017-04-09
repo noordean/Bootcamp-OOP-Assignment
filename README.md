@@ -4,12 +4,12 @@ This contains a class Employee and its subclass Intern
 It can be used to check and update staff records
 
 # Usage
-// for an employee
-var winner = new Employee("Bolorunduro Timothy","M","Nigerian","4A Ilupeju Lagos");
-winner.increaseSalary(20000);
-console.log(winner.getSalary());
+<p>// for an employee</p>
+<p>var winner = new Employee("Bolorunduro Timothy","M","Nigerian","4A Ilupeju Lagos");</p>
+<p>winner.increaseSalary(20000);</p>
+<p>console.log(winner.getSalary());</p>
 
-// for an intern
-var nuru = new Intern("Ibrahim Nurudeen","M","Nigerian","4A shomolu Lagos");
-nuru.setAddress("Andela tower Ilupeju Lagos");
-console.log(nuru.getAddress());
+<p>// for an intern</p>
+<p>var nuru = new Intern("Ibrahim Nurudeen","M","Nigerian","4A shomolu Lagos");</p>
+<p?nuru.setAddress("Andela tower Ilupeju Lagos");</p>
+<p>console.log(nuru.getAddress());</p>
