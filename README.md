@@ -1,7 +1,7 @@
 # Bootcamp-OOP-Assignment
 
-This contains a class Employee and its subclass Intern
-It can be used to check and update staff records
+This contains a class Employee and its subclass Intern,
+it can be used to check and update staff records
 
 # Usage
 <p>// for an employee</p>
@@ -11,5 +11,5 @@ It can be used to check and update staff records
 
 <p>// for an intern</p>
 <p>var nuru = new Intern("Ibrahim Nurudeen","M","Nigerian","4A shomolu Lagos");</p>
-<p?nuru.setAddress("Andela tower Ilupeju Lagos");</p>
+<p>nuru.setAddress("Andela tower Ilupeju Lagos");</p>
 <p>console.log(nuru.getAddress());</p>
